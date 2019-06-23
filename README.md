@@ -1,1 +1,4 @@
-# This is somewhere I use to collect dev documents and some interesting things I found.
+# Somewhere for dev documents and some interesting things
+
+### Synology Dev Tools
+https://www.synology.com/zh-tw/support/developer#tool
